@@ -1,0 +1,33 @@
+h1 {
+  color: #005889;
+  font-size: 35px;
+}
+
+h2 {
+  color: #005889;
+  font-size: 25px;
+}
+
+.text-bold {
+  font-weight: bold;
+}
+
+#blue-paragraph {
+  color: blue;
+  font-weight: bold;
+}
+
+
+
+.paragraph-green {
+  color: green;
+  font-weight: bold;
+}
+
+.blue {
+  color: blue;
+}
+
+div > p {
+  color: orange;
+}
